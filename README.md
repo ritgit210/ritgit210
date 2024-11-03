@@ -31,9 +31,9 @@ Relevant Coursework: Programming for Problem Solving, Calculus, Mathematical Phy
 
 ## 💼 Experience
 
-**Machine Learning Engineer**  
+**Data Science Intern**  
 *Neurons AI, Bangalore, Karnataka*  
-*May 2024 – July 2024*  
+*May 2024 – Present*  
 - 🌐 Visualized and analyzed geospatial data layers.
 - 🔍 Developed machine learning models to predict mineralized zones.
 
