@@ -1,109 +1,90 @@
-# Ritesh Gond
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/ritesh-gond-bb853928b)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ritgit210)
-[![Email](https://img.shields.io/badge/Email-22mc0071@iitism.ac.in-red)](mailto:22mc0071@iitism.ac.in)
-
-
-## 🚀 About Me
-
-I am an enthusiastic professional with a strong foundation in Earth Science and Geophysics, passionate about leveraging the power of Data Science and Software Development to tackle complex challenges across various domains. My experience in data analysis equips me with the skills to apply advanced Machine Learning and Deep Learning techniques to diverse datasets, enabling innovative solutions and enhanced decision-making.
-In addition to my analytical expertise, I have a solid background in developing software applications that streamline data processing and visualization. I thrive on creating robust algorithms and predictive models that contribute to advancements in environmental sustainability, resource management, and a variety of other fields, ensuring a meaningful impact across multiple industries.
-
+# Ritesh Gond  
+A-3, Shivani Vihar, Kalyanpur, Lucknow 226022  
+📞 +91 9026512061 | 📧 [22mc0071@iitism.ac.in](mailto:22mc0071@iitism.ac.in)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/ritesh-gond)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ritgit210)  
 
 ---
 
+## 🚀 **About Me**  
+I am an enthusiastic professional with a robust background in Earth Science and Geophysics, coupled with a strong expertise in Data Science and Software Development. My experience in building geophysical tools, analyzing geospatial data, and applying machine learning techniques enables me to provide innovative solutions to complex problems. I am passionate about leveraging my skills to contribute to advancements in environmental sustainability, resource management, and other impactful domains.
 
+---
 
-## 📚 Education
+## 📚 **Education**  
 
-**Indian Institute of Technology (Indian School of Mines), Dhanbad**  
-*Master of Science and Technology* 
-*Jul 2022 – May 2025*  
-Relevant Coursework: Deep Learning, Digital Signal Processing, Image Processing, Remote Sensing, Geophysical Methods, Geology.
+**Indian Institute of Technology (ISM), Dhanbad**  
+*Master of Science and Technology (Applied Geophysics)*  
+*Aug 2022 – May 2025* | Dhanbad, Jharkhand  
 
 **Banaras Hindu University**  
-*Bachelor of Science, (Hons) Physics*
-*Aug 2019 – May 2022*  
-Relevant Coursework: Programming for Problem Solving, Calculus, Mathematical Physics, Electromagnetic Theory, Quantum Mechanics.
+*Bachelor of Science (Hons.), Physics*  
+*Aug 2019 – May 2022* | Varanasi, Uttar Pradesh  
 
 ---
 
-## 💼 Experience
+## 💼 **Experience**  
 
-**Data Science Intern**  
-*Neurons AI, Bangalore, Karnataka*  
-*May 2024 – Present*  
-- 🌐 Visualized and analyzed geospatial data layers.
-- 🔍 Developed machine learning models to predict mineralized zones.
+**Neurons AI**  
+*Data Science Intern*  
+*May 2024 – Nov 2024* | Bangalore, Karnataka  
+- Designed an interactive interface for intuitive exploration and visualization of geospatial data.  
+- Analyzed geospatial datasets and applied feature engineering to extract critical features for predictive modeling of mineralized zones.  
 
-**Geophysical Software Developer**  
-*Rezlytix Technologies, Remote*  
-*Jan 2024 – May 2024*  
-- 📊 Utilized Pydantic for data validation and maintained standard naming conventions.
-- 🖥️ Developed user interfaces using the PyQt framework.
+**Rezlytix Technologies**  
+*Python Developer Intern*  
+*Feb 2024 – May 2024* | Remote  
+- Implemented data validation using Pydantic and managed version control with Git.  
+- Developed PyQt-based GUIs for data analysis, formation tops plotting, well path visualization, and lithology interpretation.  
 
-**Research Intern**  
-*IIT Kharagpur, Remote*  
-*Nov 2023 – Feb 2024*  
-- 🧪 Created synthetic models to simulate gravity anomalies.
+**IIT Kharagpur**  
+*Research Intern*  
+*Dec 2023 – Apr 2024* | Remote  
+- Developed synthetic models to simulate gravity anomalies and used genetic algorithms for subsurface parameter estimation.  
+- Analyzed gravity anomalies to estimate layer density and depth in the Sayula Basin, Mexico.  
 
-**Petrophysics Product Developer**  
-*IIT Dhanbad, Dhanbad, Jharkhand*  
-*Aug 2023 – Nov 2023*  
-- 📱 Developed apps for interactive petrophysical parameter calculation.
-
----
-
-## 🔧 Projects
-
-**Electrofacies Analysis**
-- 📝 Developed algorithms for continuous log generation and applied machine learning for facies classification.
-
-**Formation Evaluation**
-- ✔️ Managed quality control for wireline logs and conducted reservoir characterization.
-
-**Mineral Petrophysics**
-- 🪨 Predicted lithology and applied machine learning for mineral identification.
-
-**Mars Radial Anisotropy Analysis**
-- 🔭 Conducted seismogram analysis and inferred radial anisotropy of Mars.
+**IIT Dhanbad**  
+*Research Work*  
+*Aug 2024 – Nov 2024* | Remote  
+- Enabled real-time 2D/3D seismic visualizations and conducted attribute analysis for subsurface interpretation.  
+- Applied DBSCAN clustering on semblance attributes for geobody identification in 3D seismic data.  
 
 ---
 
-## 🛠️ Technical Skills
+## 🔧 **Projects**  
 
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-0072B8?style=flat&logo=matlab&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Petrophysical Product Development**  
+*Python, Streamlit, Visualization* | *Nov 2023*  
+- Developed web and executable apps for petrophysical parameter calculations and data visualization.  
+- Integrated interactive analysis tools for enhanced user engagement.  
 
-- **Technologies:**  
-  ![Databricks](https://img.shields.io/badge/-Databricks-FF8A00?style=flat&logo=databricks&logoColor=white) 
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white) 
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Real-Time Pore Pressure Prediction**  
+*Python, XGBoost, Random Forest* | *Jun 2023*  
+- Applied Eaton's and Bowers methods for pore pressure estimation.  
+- Optimized machine learning models for real-time pore pressure forecasting using historical data.  
 
-- **Concepts:**  
-  📊 Data Visualization, 🧬 Genetic Algorithms, 🤖 AI, 📈 Machine Learning, 🕸️ Neural Networks, ☁️ Cloud Computing.
+**Electrofacies Analysis**  
+*Python, Scikit-learn, PyTorch* | *Jun 2023*  
+- Designed algorithms for continuous permeability and grain density log generation.  
+- Implemented facies classification models using supervised, unsupervised, and deep learning approaches.  
+
+**Formation Evaluation Case Study**  
+*Python, Data Analysis* | *Nov 2020*  
+- Conducted quality control of wireline logs and optimized porosity calculations.  
+- Applied Archie’s and Simandoux’s methods for reservoir characterization.  
 
 ---
 
-## 🎨 Extracurricular Activities
+## 🛠️ **Technical Skills**  
 
-- **Graphic Designer & Video Editor**  
-- **Core Member**: Geophysical Society, IIT Dhanbad  
-- **Sports**: Badminton, Chess, Table Tennis
+**Languages:** Python, MATLAB, SQL, C++, Java  
+**Technologies:** TensorFlow, PyTorch, OpenCV, QGIS, Adobe Illustrator, MySQL, VS Code  
+**Concepts:** Image & Signal Processing, Machine Learning, Deep Learning  
+**Extras:** Graphic Designing, Video Editing  
 
 ---
 
-Feel free to reach out via email or connect with me on LinkedIn for collaboration or opportunities in the field of Geophysics, Machine Learning, Deep Learning and Software development!
+## 🎨 **Extracurricular Activities**  
+
+**Content Creator:** Sakariya Mines and Minerals, Ahmedabad, Gujarat  
+**Sports Engagements:** Badminton, Chess, Table Tennis  
