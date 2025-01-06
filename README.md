@@ -69,7 +69,7 @@ I am an enthusiastic professional with a robust background in Earth Science and 
 - Implemented facies classification models using supervised, unsupervised, and deep learning approaches.  
 
 **Formation Evaluation Case Study**  
-*Python, Data Analysis* | *Nov 2020*  
+*Python, Data Analysis* | *Nov 2022*  
 - Conducted quality control of wireline logs and optimized porosity calculations.  
 - Applied Archie’s and Simandoux’s methods for reservoir characterization.  
 
